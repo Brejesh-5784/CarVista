@@ -1,4 +1,4 @@
-# Documentation: Interactive Car Comparison Tool
+# Documentation: CarVista ( Interactive Car Comparison Tool )
 
 ## Introduction
 The **Interactive Car Comparison Tool** is a Streamlit application designed to help users compare car models from different brands based on selected features and constraints. The tool enables users to select car brands, choose features for comparison, and visualize results through interactive graphs. Additionally, it suggests the best model from each selected brand based on the provided criteria.
